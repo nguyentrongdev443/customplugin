@@ -3,12 +3,13 @@
  * Plugin Name: Custom Plugin For Test
  * Author: Chuan Team
  * URI: chuanw3s.com
- * Version: 1.0.1
+ * Version: 1.0.2
  * Description: Custom Test
  * License:           GNU General Public License v2
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
  * GitHub Plugin URI: https://github.com/afragen/github-updater
- * GitHub Branch:     master
+ * GitHub Branch:     main
  * 
  */
+include "_init.php";
 ?>
