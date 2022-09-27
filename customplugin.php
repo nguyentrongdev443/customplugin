@@ -7,7 +7,7 @@
  * Description: Custom Test
  * License:           GNU General Public License v2
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
- * GitHub Plugin URI: https://github.com/afragen/github-updater
+ * GitHub Plugin URI: https://github.com/nguyentrongdev443/customplugin.git
  * GitHub Branch:     main
  * 
  */
